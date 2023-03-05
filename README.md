@@ -25,6 +25,12 @@ To play the game, follow these instructions:
 • Click the "Hunt" button to submit your guess.
 • If your guess is correct, you win! Otherwise, try again until you get it right.
 ```
+## Scrennshots
+### Win!
+![Congo](https://user-images.githubusercontent.com/89844657/222939782-e52ea19b-77cf-4182-bc75-0f8863a89598.png)
+### Loss!
+![failed](https://user-images.githubusercontent.com/89844657/222939798-b7bc59bd-8fd1-4c4f-ae57-c97303fb0aaf.png)
+
 
 ## Contributing
 
